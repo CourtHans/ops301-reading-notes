@@ -9,3 +9,5 @@ Nurturing my curiosity through Quarantine 2020 by learning the intricacies and d
 
 * [01 -  Change Enablement and Management](class-01.md)
 * [02 - Networking](class-02.md)
+* [03 - Endpoint Acquisition](class-03.md)
+* [04 - Virtual Private Network (VPN)](class-04.md)
