@@ -36,7 +36,6 @@ Split tunneling can allow access to web services where you want or need the prot
 A VPN is an encrypted connection from one LAN to another, allowing secure connection over the internet. The internet itself is unsecure, so if you're transferring data, a VPN provides a secure tunnel to send it through. It's also critical for secure connections for travelling workers, people working from home, and mobile devices. </br>
 There are two types of VPN - Site-to-Site VPN and Remote Access VPN
 
-
 **Additional Resources**
 * [What Are VPN Tunnels?](https://www.lifewire.com/vpn-tunneling-explained-818174)
 * [Setup a Site to Site VPN](https://www.youtube.com/watch?v=JxhsFqGzWdk)

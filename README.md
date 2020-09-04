@@ -11,3 +11,4 @@ Nurturing my curiosity through Quarantine 2020 by learning the intricacies and d
 * [02 - Networking](class-02.md)
 * [03 - Endpoint Acquisition](class-03.md)
 * [04 - Virtual Private Network (VPN)](class-04.md)
+* [05 - Linux DNS Server](class-05.md)
