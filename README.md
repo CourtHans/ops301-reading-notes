@@ -18,3 +18,5 @@ Nurturing my curiosity through Quarantine 2020 by learning the intricacies and d
 * [09 - OSPF Routing](class-09.md)
 * [10 - Linux Web Server](class-10.md)
 * [11 - Azure Cloud Administration](class-11.md)
+* [12 - DevOps](class-12.md)
+* [13 - Patch Management](class-13.md)
