@@ -20,3 +20,5 @@ Nurturing my curiosity through Quarantine 2020 by learning the intricacies and d
 * [11 - Azure Cloud Administration](class-11.md)
 * [12 - DevOps](class-12.md)
 * [13 - Patch Management](class-13.md)
+* [14 - Database Administration](class-14.md)
+* [15 - Diversity and Inclusion](class-15.md)
